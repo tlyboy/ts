@@ -3,19 +3,19 @@
 ## Install
 
 ```sh
-npm install starter
+npm install @tlyboy/starter
 ```
 
 ## Usage
 
 ```js
 // ESM
-import { starter } from 'starter'
+import { starter } from '@tlyboy/starter'
 ```
 
 ```js
 // CommonJS
-const { starter } = require('starter')
+const { starter } = require('@tlyboy/starter')
 ```
 
 ## Related Efforts
