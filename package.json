@@ -35,8 +35,8 @@
     "lint:fix": "eslint . --fix"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^0.39.3",
-    "eslint": "^8.41.0",
+    "@antfu/eslint-config": "^0.39.5",
+    "eslint": "^8.42.0",
     "typescript": "^4.9.5",
     "unbuild": "^1.2.1"
   }
