@@ -2,7 +2,7 @@
   "name": "@tlyboy/starter",
   "type": "module",
   "version": "0.0.0",
-  "packageManager": "pnpm@8.6.3",
+  "packageManager": "pnpm@8.6.4",
   "description": "",
   "author": "Guany",
   "license": "MIT",
