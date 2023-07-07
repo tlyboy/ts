@@ -2,7 +2,7 @@
   "name": "@tlyboy/starter",
   "type": "module",
   "version": "0.0.0",
-  "packageManager": "pnpm@8.6.4",
+  "packageManager": "pnpm@8.6.6",
   "description": "",
   "author": "Guany",
   "license": "MIT",
@@ -35,8 +35,8 @@
     "lint:fix": "eslint . --fix"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^0.39.5",
-    "eslint": "^8.43.0",
+    "@antfu/eslint-config": "^0.39.7",
+    "eslint": "^8.44.0",
     "typescript": "^4.9.5",
     "unbuild": "^1.2.1"
   }
